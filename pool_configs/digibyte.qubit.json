@@ -2,21 +2,21 @@
     "enabled": true,
     "coin": "digibyte.qubit.json",
 
-    "address": "YourDGBWALLET_PoolAddress",
+    "address": "DC41LnUGnZVg9XWFxD4tN6ibkAk7NGFsse",
 
     "rewardRecipients": {
-        "YourDGB_PoolAdminPayoutAddressHere": 3.0
+        "DCRgFfcNe2g9ihQdHrTgVjJ4E4qgZ4hAr6": 5.0
     },
 
     "paymentProcessing": {
         "enabled": true,
         "paymentInterval": 60,
-        "minimumPayment": 500,
+        "minimumPayment": 100,
         "daemon": {
             "host": "127.0.0.1",
-            "port": 10004,
-            "user": "digitrade_user",
-            "password": "digitrade_password"
+            "port": 14044,
+            "user": "user",
+            "password": "password"
         }
     },
 
@@ -25,26 +25,26 @@
             "diff": 0.01
         },
         "3036": {
-            "diff": 0.01,
+            "diff": 0.4,
             "varDiff": {
-                "minDiff": 0.01,
-                "maxDiff": 512,
+                "minDiff": 0.1,
+                "maxDiff": 0.9,
                 "targetTime": 15,
                 "retargetTime": 90,
                 "variancePercent": 30
             }
         },
         "3260": {
-            "diff": 256
+            "diff": 1
         }
     },
 
     "daemons": [
         {
             "host": "127.0.0.1",
-            "port": 10004,
-            "user": "digitrade_user",
-            "password": "digitrade_password"
+            "port": 14044,
+            "user": "user",
+            "password": "password"
         }
     ],
 
