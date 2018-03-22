@@ -70,9 +70,9 @@ function SetupForPool(logger, poolOptions, setupFinished){
                     callback(true);
                 }
                 else if (!result.response || !result.response.ismine) {
-                    logger.error(logSystem, logComponent,
-                            'Daemon does not own pool address - payment processing can not be done with this daemon, '
-                            + JSON.stringify(result.response));
+                    //logger.error(logSystem, logComponent,
+                           // 'Daemon does not own pool address - payment processing can not be done with this daemon, '
+                          //  + JSON.stringify(result.response));
                     callback(true);
                 }
                 else{
