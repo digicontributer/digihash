@@ -1,6 +1,5 @@
 {
     "name": "Digibyte-Scrypt",
     "symbol": "DGB",
-    "algorithm": "scrypt",
-"peerMagic": "fac3b6da"
+    "algorithm": "scrypt"
 }
