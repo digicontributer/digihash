@@ -2,10 +2,10 @@
     "enabled": true,
     "coin": "digibyte.sha256.json",
     "algo": "sha256d",
-    "address": "DBZFqeKshbHt6bb17yGx9iLCc7bVTJKZqV",
+    "address": "DMhWnskQR1BCJPdbztmqX2b9ZLGPRmkG1r",
 
     "rewardRecipients": {
-        "DSb38nsXHUNXHEATvVq5oAj2Q6erb3JPkU": 5.0
+        "DBB9neiUMFjXMpLxgHt1wJNCJYHVnDkjx4": 5.0
     },
 
     "paymentProcessing": {
@@ -14,7 +14,7 @@
         "minimumPayment": 100,
         "daemon": {
             "host": "127.0.0.1",
-            "port": 14011,
+            "port": 14022,
             "user": "user",
             "password": "password"
         }
@@ -42,7 +42,7 @@
     "daemons": [
         {
             "host": "127.0.0.1",
-            "port": 14011,
+            "port": 14022,
             "user": "user",
             "password": "password"
         }

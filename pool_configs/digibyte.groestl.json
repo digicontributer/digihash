@@ -2,10 +2,10 @@
     "enabled": true,
     "coin": "digibyte.groestl.json",
     "algo": "groestl",
-    "address": "DHjWvKZezfdfF6ER5maoDtjoNabDcSkHXM",
+    "address": "DMhWnskQR1BCJPdbztmqX2b9ZLGPRmkG1r",
 
     "rewardRecipients": {
-        "DJ3tghmiVCdnQKbgYGGFhVFPpp568Kx7of": 5.0
+        "DBB9neiUMFjXMpLxgHt1wJNCJYHVnDkjx4": 5.0
     },
 
     "paymentProcessing": {
@@ -14,7 +14,7 @@
         "minimumPayment": 100,
         "daemon": {
             "host": "127.0.0.1",
-            "port": 14055,
+            "port": 14022,
             "user": "user",
             "password": "password"
         }
@@ -43,7 +43,7 @@
     "daemons": [
         {
             "host": "127.0.0.1",
-            "port": 14055,
+            "port": 14022,
             "user": "user",
             "password": "password"
         }

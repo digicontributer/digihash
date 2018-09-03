@@ -2,10 +2,10 @@
     "enabled": true,
     "coin": "digibyte.qubit.json",
     "algo": "qubit",
-    "address": "DRRsZrx1sbbBYixQVxMM9sq6K4MMvgkZNm",
+    "address": "DMhWnskQR1BCJPdbztmqX2b9ZLGPRmkG1r",
 
     "rewardRecipients": {
-        "DCRgFfcNe2g9ihQdHrTgVjJ4E4qgZ4hAr6": 5.0
+        "DBB9neiUMFjXMpLxgHt1wJNCJYHVnDkjx4": 5.0
     },
 
     "paymentProcessing": {
@@ -14,7 +14,7 @@
         "minimumPayment": 100,
         "daemon": {
             "host": "127.0.0.1",
-            "port": 14044,
+            "port": 14022,
             "user": "user",
             "password": "password"
         }
@@ -42,7 +42,7 @@
     "daemons": [
         {
             "host": "127.0.0.1",
-            "port": 14044,
+            "port": 14022,
             "user": "user",
             "password": "password"
         }
