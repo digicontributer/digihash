@@ -1,7 +1,7 @@
 {
     "enabled": true,
     "coin": "digibyte.qubit.json",
-
+    "algo": "qubit",
     "address": "DRRsZrx1sbbBYixQVxMM9sq6K4MMvgkZNm",
 
     "rewardRecipients": {

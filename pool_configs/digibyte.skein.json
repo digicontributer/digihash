@@ -1,7 +1,7 @@
 {
     "enabled": true,
     "coin": "digibyte.skein.json",
-
+    "algo": "skein",
     "address": "DGJdXDZFnu6cCwfVUYsK4jPEtZUwUYow3U",
 
     "rewardRecipients": {

@@ -1,7 +1,7 @@
 {
     "enabled": true,
     "coin": "digibyte.groestl.json",
-
+    "algo": "groestl",
     "address": "DHjWvKZezfdfF6ER5maoDtjoNabDcSkHXM",
 
     "rewardRecipients": {

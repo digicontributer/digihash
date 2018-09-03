@@ -1,7 +1,7 @@
 {
     "enabled": true,
     "coin": "digibyte.sha256.json",
-
+    "algo": "sha256d",
     "address": "DBZFqeKshbHt6bb17yGx9iLCc7bVTJKZqV",
 
     "rewardRecipients": {

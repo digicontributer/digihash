@@ -1,7 +1,7 @@
 {
     "enabled": true,
     "coin": "digibyte.scrypt.json",
-
+    "algo": "scrypt",
     "address": "DMhWnskQR1BCJPdbztmqX2b9ZLGPRmkG1r",
 
     "rewardRecipients": {
